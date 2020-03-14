@@ -1,0 +1,100 @@
+Foundations of statistical natural language processing
+Natural language processing (almost) from scratch
+The Stanford CoreNLP natural language processing toolkit
+A maximum entropy approach to natural language processing
+Natural language processing with Python: analyzing text with the natural language toolkit
+Natural language processing
+Introduction to Arabic natural language processing
+Natural language processing
+Sentiment analysis: Capturing favorability using natural language processing
+Readings in natural language processing
+A unified architecture for natural language processing: Deep neural networks with multitask learning
+Handbook of natural language processing
+Natural language processing for online applications: Text retrieval, extraction and categorization
+Transformation-based error-driven learning and natural language processing: A case study in part-of-speech tagging
+Handbook of natural language processing
+Natural language processing and text mining
+Natural language processing: an introduction
+Neural network methods for natural language processing
+Ask me anything: Dynamic memory networks for natural language processing
+Natural language processing for information retrieval
+Advances in natural language processing
+Strategies for natural language processing
+Detection of duplicate defect reports using natural language processing
+Ontology-based parser for natural language processing
+Evaluating natural language processing systems: An analysis and review
+Natural language processing for Prolog programmers
+Natural-language processing system
+Jumping NLP curves: A review of natural language processing research
+Recent trends in deep learning based natural language processing
+A primer on neural network models for natural language processing
+Spotting and discovering terms through natural language processing
+Human engineering fcr applied natural language processing
+Automated encoding of clinical documents based on natural language processing
+Sentiment analyzer: Extracting sentiments about a given topic using natural language processing techniques
+System for processing textual inputs using natural language processing techniques
+Wikipedia-based semantic interpretation for natural language processing
+Graph-based natural language processing and information retrieval
+Using natural-language processing to produce weather forecasts
+GENIES: a natural-language processing system for the extraction of molecular pathways from journal articles
+Natural language processing: a Paninian perspective
+Subsymbolic natural language processing: An integrated model of scripts, lexicon, and memory
+What can natural language processing do for clinical decision support?
+Natural language processing interface
+Object interactive user interface using speech recognition and natural language processing
+Natural language processing system for semantic vector representation which accounts for lexical ambiguity
+Arabic natural language processing: Challenges and solutions
+A simple introduction to maximum entropy models for natural language processing
+Natural language processing of disfluent sentences
+Unlocking clinical data from narrative reports: a study of natural language processing
+Network interactive user interface using speech recognition and natural language processing
+Interactive user interface using speech recognition and natural language processing
+Automatically assigning medical codes using natural language processing
+Natural language processing and the representation of clinical data
+Natural language processing in medicine: an overview
+Lexical knowledge representation and natural language processing
+System and method for natural language processing of query answers
+A broad-coverage natural language processing system.
+Natural language processing: the PLNLP approach
+Web-based models for natural language processing
+Apparatus and methods for an information retrieval system that employs natural language processing of search results to improve overall precision
+Comparative study of cnn and rnn for natural language processing
+Lexical semantic relatedness and its application in natural language processing
+Natural language processing and information retrieval
+Natural language processing for historical texts
+Lexical functions in lexicography and natural language processing
+MedScan, a natural language processing engine for MEDLINE abstracts
+Learning to rank for information retrieval and natural language processing
+Natural language processing and its future in medicine
+Chinese whispers: an efficient graph clustering algorithm and its application to natural language processing problems
+The semantics of prepositions: From mental processing to natural language processing
+Natural language processing system and method for processing input information by predicting kind thereof
+Natural language processing for a location-based services system
+The interaction of domain knowledge and linguistic structure in natural language processing: interpreting hypernymic propositions in biomedical text
+On memory limitations in natural language processing
+Allennlp: A deep semantic natural language processing platform
+Systems for natural language processing of sentence based queries
+Genomics and natural language processing
+Parsing method and system for natural language processing
+System and method for natural language processing of sentence based queries
+NL-OOPS: from natural language to object oriented requirements using the natural language processing system LOLITA
+A survey on hate speech detection using natural language processing
+Automated identification of postoperative complications within an electronic medical record using natural language processing
+A linguistic ontology of space for natural language processing
+Very deep convolutional networks for natural language processing
+Natural language processing to the rescue? extracting" situational awareness" tweets during mass emergency
+Natural language processing with modular PDP networks and distributed lexicon
+Extracting principal diagnosis, co-morbidity and smoking status for asthma research: evaluation of a natural language processing system
+Automated detection of adverse events using natural language processing of discharge summaries
+The handbook of computational linguistics and natural language processing
+System and method for selecting and presenting advertisements based on natural language processing of voice-based input
+Natural language processing and semantical representation of medical texts
+Self-organizing maps in natural language processing
+Syntactic n-grams as machine learning features for natural language processing
+Practical Natural-Language Processing by Computer
+Inheritance in natural language processing
+On some applications of finite-state automata theory to natural language processing
+Region-matching transducers for natural language processing
+Probabilistic system for natural language processing
+Integrating plot, character and natural language processing in the interactive drama Façade
+A general organization of knowledge for natural language processing: The penman upper model
